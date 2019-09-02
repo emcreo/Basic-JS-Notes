@@ -1,2 +1,3 @@
-# TA-Basic-JS-Projects
-Basic JavaScript Projects
+
+basic js for me to refer and refresh
+
